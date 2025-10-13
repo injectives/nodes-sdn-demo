@@ -33,3 +33,5 @@ build/
 .vscode/
 
 docker-compose/tempo-data
+.DS_Store
+spring.json
