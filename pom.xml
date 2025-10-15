@@ -69,18 +69,6 @@
 		</dependency>
     </dependencies>
 
-    <dependencyManagement>
-        <dependencies>
-            <dependency>
-                <groupId>org.neo4j.driver</groupId>
-                <artifactId>neo4j-java-driver-bom</artifactId>
-                <version>${neo4j-java-driver.version}</version>
-                <scope>import</scope>
-                <type>pom</type>
-            </dependency>
-        </dependencies>
-    </dependencyManagement>
-
 	<build>
 		<plugins>
 			<plugin>
