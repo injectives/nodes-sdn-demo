@@ -55,7 +55,6 @@
         <dependency>
             <groupId>org.neo4j.driver</groupId>
             <artifactId>neo4j-java-driver-observation-micrometer</artifactId>
-            <scope>runtime</scope>
         </dependency>
         <dependency>
             <groupId>org.neo4j.bolt</groupId>
